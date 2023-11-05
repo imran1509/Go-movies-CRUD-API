@@ -1,0 +1,1 @@
+- This folder contains the thumbnail or project structure of this API
